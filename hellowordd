@@ -6,6 +6,7 @@ public class text {
 
 		System.out.println("hello new  word");
 		System.out.println("hello new  word");
+		System.out.println("zr  hello new  word");
 	}
 
 }
